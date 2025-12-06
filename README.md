@@ -1,5 +1,7 @@
 # COL_MEN_STAT
+
 Proyecto de ciencia de datos basado en datos abiertos del MEN (Colombia). Incluye ETL, EDA, modelado, validación y una interfaz simple para uso final. El repositorio muestra el flujo completo desde la recolección del dato hasta el despliegue del modelo.
+
 
 ## Contexto y condiciones iniciales
  El dataset de *Matrícula de educación preescolar, básica y media* surge como un registro administrativo consolidado por el SIMAT, cuyo propósito central es producir información estadística oportuna, confiable y desagregada sobre la población atendida en el sistema educativo colombiano. Esta información permite organizar el proceso de matrícula, monitorear la cobertura, caracterizar estudiantes y establecimientos, y constituir la base para la distribución de recursos del Sistema General de Participaciones, la formulación de políticas públicas y el análisis de trayectorias educativas.
