@@ -45,7 +45,7 @@ En esta fase se encuentra:
 - 🔄 Notebook de ETL **en proceso**  
 - ⏳ Aún no hay scripts ejecutables ni modelos entrenados  
 
----
+
 
 ## 🎯 Objetivos del proyecto
 
@@ -56,7 +56,7 @@ El análisis se enfoca en:
 - Identificar desigualdades territoriales significativas  
 - Desarrollar modelos predictivos preliminares (proyección de matrícula / deserción)
 
----
+
 
 ## 🛠️ Requisitos e instalación
 
